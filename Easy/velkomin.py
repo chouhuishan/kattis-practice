@@ -1,0 +1,3 @@
+message = "VELKOMIN!"
+
+print(message)
